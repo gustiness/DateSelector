@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorpPink">#FFB3CC</color>
+    <color name="colorRed">#EE8262</color>
+    <color name="colorText">#444444</color>
+    <color name="colorAlphaGray">#F0F0F0</color>
+
+    <color name="colorHolidayText">#4385bf</color>
+    <color name="colorSelectBg">#24D5D2</color>
+    <color name="colorNormalBg">#76EEC6</color>
+
+</resources>
